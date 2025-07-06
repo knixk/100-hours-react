@@ -1,0 +1,1 @@
+type module allows us to use import syntax
